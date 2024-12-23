@@ -1,0 +1,11 @@
+Model Information:
+* title:	Winter Cottage - Hand Painted
+* source:	https://sketchfab.com/3d-models/winter-cottage-hand-painted-acb5384b93134b779d9854fcbe62c837
+* author:	DougByte (https://sketchfab.com/DougByte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Winter Cottage - Hand Painted" (https://sketchfab.com/3d-models/winter-cottage-hand-painted-acb5384b93134b779d9854fcbe62c837) by DougByte (https://sketchfab.com/DougByte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
